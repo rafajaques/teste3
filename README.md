@@ -1,2 +1,9 @@
 # teste3
-Meu projeto git bacana :)
+Este é o meu primeiro projeto
+======
+Que bom que **você** veio aqui.
+
+```php
+<?php
+echo 'bom dia';
+```
